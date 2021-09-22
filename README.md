@@ -3,23 +3,30 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I attempted to build a convolutional neural network that trains on various pictures of dogs and cats with the end goal of accurately tagging pictures of dogs and cats.
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+Here are images of the datasets and training process
+
+[Dogs](dogs.png)
+
+[Cats](cats.png)
+
+[Training](epoch.PNG)
+
+
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I worked on this project on my own, so I found a database of images of dogs and cats online and used a subset of the database to train my model. I created the CNN by following the tutorial.
 
 ## What you learned
 
-TODO: what worked / what didn't work
+The CNN worked well, but accuracy was not very high. I was able to accurately predict the classification of the image in the predictions directory but overall performance is not fantastic.
 
 ## Authors
 
-TODO: list of authors
+Anand Mittal
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+https://www.udemy.com/course/deeplearning/
