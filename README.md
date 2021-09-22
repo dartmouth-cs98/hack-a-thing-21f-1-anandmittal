@@ -7,11 +7,11 @@ I attempted to build a convolutional neural network that trains on various pictu
 
 Here are images of the datasets and training process
 
-[Dogs](dogs.png)
+[Dogs](/dogs.png)
 
-[Cats](cats.png)
+[Cats](/cats.png)
 
-[Training](epoch.PNG)
+[Training](/epoch.PNG)
 
 
 
